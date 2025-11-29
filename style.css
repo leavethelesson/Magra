@@ -1,12 +1,12 @@
 body {
-            background-color: bisque;
+            background-color: rgb(195, 123, 34);
         }
         h1 {
-            color: white;
+            color: rgb(238, 188, 188);
             text-align: center;
         }
         p {
-            font-family: Verdana;
-            font-size: 20px;
-            font-weight: 200;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 30px;
+            font-weight: 300;
         }
